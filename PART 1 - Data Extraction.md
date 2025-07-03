@@ -31,7 +31,7 @@ Select the disk:  <br/>
 <img src="https://i.imgur.com/nrlO6Da.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Selected **333 random records** from the dataset and stored in `customer_333`.
-<img src="https://i.imgur.com/D9twVBt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://.imgur.com/D9twVBt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Computed and displayed the **count of different levels in the `Churn` column**
 <img src="https://i.imgur.com/EoEvVHl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
